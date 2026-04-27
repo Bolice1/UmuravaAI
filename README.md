@@ -780,3 +780,8 @@ Built with ❤️ for the **Umurava AI Hackathon 2026**
 ⭐ If you found this useful, give the repo a star!
 
 </div>
+
+**#Contributors**
+Frontend and UI/UX Design: IHOZO Raissa Flora
+Backend: KOMEZUSENGE Bolice
+AI: IHIRWE Celia Joy
